@@ -1,0 +1,9 @@
+<html>
+<head>
+<title>bgimage</title>
+<style>
+.bg{background-image:C:\Users\Abhishek Aravindan\abhi\HTML\1.jpeg;}
+</head>
+<body class="bg">
+</body>
+</html>
