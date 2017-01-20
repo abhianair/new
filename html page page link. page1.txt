@@ -1,0 +1,8 @@
+<html>
+<head><title>page 1</title>
+</head>
+<body>
+<p>this is <b>page 1</b></p><br>
+<a href="page 2.html">Go to page 2</a>
+</body>
+</html>

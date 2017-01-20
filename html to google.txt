@@ -1,0 +1,7 @@
+<html>
+<head><title>google</title></head>
+<body>
+<p>this is a page that link to a the GOOGLE search engine...!!</p>
+<a href="www.google.com">click here to GOOGLE</a>
+</body>
+</html>
